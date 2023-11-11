@@ -1,0 +1,36 @@
+{
+    "name": "Flashing Heart",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.python",
+        "main.py",
+        "README.md",
+        "main.py",
+        "tsconfig.json",
+        "test.ts",
+        "README.md",
+        ".vscode/settings.json",
+        ".vscode/extensions.json",
+        "main.blocks",
+        "main.ts",
+        "main.py",
+        ".simstate.json",
+        ".git.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.22",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "pyprj"
+}
